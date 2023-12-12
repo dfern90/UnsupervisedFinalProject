@@ -1,7 +1,7 @@
 # UnsupervisedFinalProject
 
 Customer Segmentation Project README
-##Overview
+## Overview
 
 This project aims to explore an unsupervised machine learning approach to customer segmentation. Customer segmentation involves dividing customers into groups based on shared characteristics, which proves beneficial for marketing strategies, brand positioning, and targeting potential consumers effectively.
 Objectives
