@@ -1,7 +1,7 @@
 # UnsupervisedFinalProject
 
 Customer Segmentation Project README
-Overview
+##Overview
 
 This project aims to explore an unsupervised machine learning approach to customer segmentation. Customer segmentation involves dividing customers into groups based on shared characteristics, which proves beneficial for marketing strategies, brand positioning, and targeting potential consumers effectively.
 Objectives
@@ -11,7 +11,7 @@ Objectives
     Fine-tune hyperparameters.
     Analyze and discuss the results obtained.
 
-Dataset
+## Dataset
 
 The dataset utilized for this project is the Customer Segmentation dataset sourced from JanataHack via Analytics Vidhya. This dataset, akin to a Kaggle competition dataset, eliminates the need for specialized data collection. The CSV files provided will be directly uploaded into the Jupyter notebook for analysis.
 Problem Statement
